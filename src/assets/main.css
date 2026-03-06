@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-primary: #1a2e5a;
+  --color-secondary: #d4a709;
+  --color-tertiary: #4b4b4b;
+  --color-accent: #e8e8e8;
+  --color-background: #fafafa;
+}
+
+h1 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2 {
+  font-family: 'Shadows Into Light Two', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+:root {
+  font-family: 'Open Sans', sans-serif;
+}
